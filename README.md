@@ -1,4 +1,4 @@
-![welcome](./src/welcome.png)
+![welcome](https://github.com/wasilukowa/wasilukowa/blob/master/src/welcome.png?raw=true)
 
 ---
 
