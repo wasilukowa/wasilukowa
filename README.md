@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I am Natalia ⚡
+
+---
+
+#### I am still learning but I hope to become front end developer who solves more problems than creates :)
+
+#### [LinkedIn Profile](https://www.linkedin.com/in/wasiluk-natalia/)
 
 <!--
 **wasilukowa/wasilukowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
