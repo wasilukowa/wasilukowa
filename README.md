@@ -1,4 +1,4 @@
-### Hi, I am Natalia ⚡
+![welcome](./src/welcome.png)
 
 ---
 
