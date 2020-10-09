@@ -6,7 +6,18 @@
 
 #### [LinkedIn Profile](https://www.linkedin.com/in/wasiluk-natalia/)
 
+#### Two projects that I was lately working on can be found here:
 
+##### Nawykownik 
+it is simple Habbit Tracker which can be used to work on consistently introducing good habits into life. 
+There are few new ideas which I will work on to implement but basic functionality is on :)
+- Github repository: https://github.com/wasilukowa/nawykownik
+- Demo: https://wasilukowa.github.io/nawykownik/#/
+
+#### Verti website template
+Project was build bases on existing Verti by HTML5 template but with React, React Router and Styled Components. RWD!
+- Github repository: https://github.com/wasilukowa/Verti-website-template
+- Demo: https://wasilukowa.github.io/Verti-website-template/
 
 <!--
 
