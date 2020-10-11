@@ -3,7 +3,7 @@
 ---
 
 #### I am still learning but I hope to become front end developer who solves more problems than creates :)
-<a href="https://www.linkedin.com/in/natalia-wasiluk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/wasiluk-natalia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 
 ### Two projects that I was lately working on can be found here:
 
