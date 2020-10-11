@@ -8,14 +8,15 @@
 ### Two projects that I was lately working on can be found here:
 
 #### Nawykownik 
-it is simple Habbit Tracker which can be used to work on consistently introducing good habits into life. 
+Simple Habbit Tracker app which can be used to work on consistently introducing and tracking good habits into life. 
+Used technologies: React, React Router and Styled Components. Website is fully responsive. 
 There are few new ideas which I will work on to implement but basic functionality is on :)
-- [Nawykownik repo](https://github.com/wasilukowa/nawykownik)
+- [Nawykownik repository](https://github.com/wasilukowa/nawykownik)
 - [Nawykownik demo](https://wasilukowa.github.io/nawykownik/#/)
 
 #### Verti website template
-Project was build bases on existing Verti by HTML5 template but with React, React Router and Styled Components. RWD!
-- [Verti www template repo](https://github.com/wasilukowa/Verti-website-template)
+Project was build bases on existing Verti by HTML5 fully responsive template but with React, React Router and Styled Components.
+- [Verti repository](https://github.com/wasilukowa/Verti-website-template)
 - [Verti demo](https://wasilukowa.github.io/Verti-website-template/)
 
 
