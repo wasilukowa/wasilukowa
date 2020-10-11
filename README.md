@@ -3,7 +3,7 @@
 ---
 
 #### I am still learning but I hope to become front end developer who solves more problems than creates :)
-
+<a href="https://www.linkedin.com/in/wasiluk-natalia/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Two projects that I was lately working on can be found here:
 
@@ -19,12 +19,10 @@ Project was build bases on existing Verti by HTML5 fully responsive template but
 - [Verti repository](https://github.com/wasilukowa/Verti-website-template)
 - [Verti demo](https://wasilukowa.github.io/Verti-website-template/)
 
-
-#### [LinkedIn Profile](https://www.linkedin.com/in/wasiluk-natalia/)
 <!--
 
 ![](https://komarev.com/ghpvc/?username=wasilukowa&color=yellow)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasilukowa&layout=compact)](https://github.com/wasilukowa/github-readme-stats)
 
 
 **wasilukowa/wasilukowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
