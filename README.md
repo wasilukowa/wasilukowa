@@ -2,10 +2,16 @@
 
 ---
 
-#### I am still learning but I hope to become front end developer who solves more problems than creates :)
+#### I want to become front end developer who solves more problems than creates :)
 <a href="https://www.linkedin.com/in/wasiluk-natalia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 
-### Two projects that I was lately working on can be found here:
+### I am currently working on new projects that will showcase my skills, but they will take some more time to complete. However, you can take a look at my current progress and the code I’ve written so far here. 
+This is the most recent work I've done, reflecting what I’ve learned and continue to work on at Academia Localhost.
+- [React + Typescript + Next.js learning repository](https://github.com/wasilukowa/learning-next)
+
+
+---
+### Two projects that I created long time ago can be found here:
 
 #### Nawykownik 
 Simple Habbit Tracker app which can be used to work on consistently introducing and tracking good habits into life. 
