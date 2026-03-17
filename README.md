@@ -8,3 +8,4 @@
 ### I am currently working on new projects that will showcase my skills, but they will take some more time to complete. However, you can take a look at my current progress and the code I’ve written so far here. 
 This is very simple "Battleship Game" created lately:
 - [STATKI](https://statki-alpha.vercel.app/)
+  To play the game you need to open Statki page on two devices/two tabs in the browser. Enjoy :)
